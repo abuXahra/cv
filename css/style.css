@@ -1,0 +1,33 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+
+h1,
+h3 {
+    color: #84D2C5;
+}
+
+hr {
+    width: 5%;
+    border-style: dotted;
+    border: white solid 10px;
+}
+
+a {
+    color: burlywood;
+    text-decoration: none;
+}
+
+a:hover {
+    color: burlywood;
+}
+
+a:active {
+    color: burlywood;
+}
+
+a:visited {
+    color: burlywood;
+}
